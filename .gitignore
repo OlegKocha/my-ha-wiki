@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+
+# Original notes may contain personal data; never commit them.
+archive/
+
+# Local import tools are not needed to build or publish the edited site.
+scripts/import-obsidian.py
+scripts/organize-wiki.py
+.env
+.env.*
+!.env.example
+*.log

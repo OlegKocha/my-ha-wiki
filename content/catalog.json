@@ -1,0 +1,505 @@
+[
+  {
+    "title": "Основы Home Assistant",
+    "icon": "home",
+    "description": "Настройка, дополнения и полезные материалы",
+    "pages": [
+      {
+        "id": "ha-wiki",
+        "title": "Начало",
+        "description": "Настройка Home Assistant и материалы этого раздела.",
+        "kind": "collection",
+        "collection": "wiki",
+        "sourceName": "0 HA wiki",
+        "sourceFile": "0 HA wiki.md"
+      },
+      {
+        "id": "wifi",
+        "title": "Подключение по Wi-Fi",
+        "description": "Подключение Home Assistant к беспроводной сети.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Работа через Wifi",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "file-editor",
+        "title": "File editor",
+        "description": "File editor",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "File editor",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "bookstack",
+        "title": "BookStack",
+        "description": "Идея домашней wiki в дополнениях Home Assistant.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Bookstack",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "reading",
+        "title": "Полезные материалы",
+        "description": "Ссылки на статьи, обсуждения и будущие эксперименты.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Почитать",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "rinnai-overview",
+        "title": "Котёл Rinnai: варианты подключения",
+        "description": "Заметки об адаптерах, интерфейсах и интеграции котла.",
+        "sourceName": "Котел Rinnai в HA",
+        "sourceFile": "Rinnai в HA/Котел Rinnai в HA.md",
+        "origin": "obsidian",
+        "sha256": "353d899ef88075c2fafb508fb5e57450230f9ae5a018a693af87bb8b1df3923e",
+        "status": "needs-test",
+        "statusSource": "not-recorded",
+        "kind": "article"
+      },
+      {
+        "id": "rinnai-modbus",
+        "title": "Rinnai через Modbus",
+        "description": "EctoControl, шлюз USR-W610, сенсоры и управление.",
+        "sourceName": "Rinnai - modbus - HA",
+        "sourceFile": "Rinnai в HA/Rinnai - modbus - HA.md",
+        "origin": "obsidian",
+        "sha256": "1119ec5b4b58ad6f327a818166413ccaefd0202c3a6bee2ea5383a77784e071c",
+        "status": "needs-test",
+        "statusSource": "not-recorded",
+        "kind": "article"
+      },
+      {
+        "id": "rinnai-field",
+        "title": "Rinnai: выездная инструкция",
+        "description": "Что взять с собой, как подключить и проверить связь.",
+        "sourceName": "Выездная инструкция — Rinnai EctoControl USR-W610 Home Assistant",
+        "sourceFile": "Rinnai в HA/Выездная инструкция — Rinnai EctoControl USR-W610 Home Assistant.md",
+        "origin": "obsidian",
+        "sha256": "aaa2e1ce634c5344fa22d7c85165e196365c0b8937118950ee7a0ebf7da02d55",
+        "status": "needs-test",
+        "statusSource": "not-recorded",
+        "kind": "article"
+      }
+    ],
+    "subgroups": [
+      {
+        "title": "Отопление · Rinnai",
+        "icon": "tool",
+        "pageIds": [
+          "rinnai-overview",
+          "rinnai-modbus",
+          "rinnai-field"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "HACS",
+    "icon": "layout",
+    "description": "Установка HACS, интеграции, карточки и дополнения",
+    "pages": [
+      {
+        "id": "hacs",
+        "title": "Полезные дополнения",
+        "description": "Интеграции, карточки и дополнения для Home Assistant.",
+        "kind": "collection",
+        "collection": "hacs"
+      },
+      {
+        "id": "hacs-install",
+        "title": "Установка HACS",
+        "description": "Установка через SSH и подключение HACS к аккаунту GitHub.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "HACS",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/hacs/integration"
+      },
+      {
+        "id": "gismeteo",
+        "title": "Gismeteo",
+        "description": "Настройка интеграции и карточка прогноза погоды.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Gismeteo",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/Limych/ha-gismeteo"
+      },
+      {
+        "id": "yandex-weather",
+        "title": "Яндекс Погода",
+        "description": "Установка Яндекс Погоды и подключение API-токена.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Yandex погода",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/yandex/pogoda-home-assistant"
+      },
+      {
+        "id": "cloudflare-speedtest",
+        "title": "Cloudflare Speed Test",
+        "description": "Периодическое измерение скорости и графики Download, Upload и Ping.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Cloudflare Speed Test",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/DigitallyRefined/ha-cloudflare-speed-test"
+      },
+      {
+        "id": "rt-speedtest",
+        "title": "Speedtest RT.RU",
+        "description": "Настройка замеров и графиков скорости, Ping и Jitter.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Speedtest RT.RU",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/soulripper13/speedtest_rt_ru"
+      },
+      {
+        "id": "yandex-speedtest",
+        "title": "Яндекс Интернетметр",
+        "description": "Настройка Интернетметра и наблюдения о точности измерений.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Yandex Интернетметр",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/ErilovNikita/ha-yainternetometr"
+      },
+      {
+        "id": "yandex-smart-home",
+        "title": "Yandex Smart Home",
+        "description": "Заметка пока не заполнена. Здесь можно сохранить ссылку на репозиторий, настройки и результат проверки.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Yandex Smart Home",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/dext0r/yandex_smart_home"
+      },
+      {
+        "id": "mini-graph-card",
+        "title": "mini-graph-card",
+        "description": "Графики температуры и влажности: отдельная комната и весь дом.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "mini-graph-card",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/kalkih/mini-graph-card"
+      },
+      {
+        "id": "keenetic-repositories",
+        "title": "Keenetic интеграции",
+        "description": "Выбор интеграции, установка Keenetic API и примеры сенсоров LTE.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Keenetic",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "user-confirmed",
+        "kind": "article",
+        "repository": "https://github.com/malinovsku/ha-keenetic_api",
+        "aliases": [
+          "Keenetic: выбор интеграции",
+          "Keenetic в Home Assistant",
+          "Keenetic in HA",
+          "keenetic"
+        ]
+      },
+      {
+        "id": "firefox",
+        "title": "Firefox в Home Assistant",
+        "description": "Браузер Firefox как дополнение Home Assistant.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Firefox (браузер из HA)",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/Mincka/ha-addons"
+      },
+      {
+        "id": "openspeedtest",
+        "title": "OpenSpeedTest",
+        "description": "Установка OpenSpeedTest из репозитория дополнений.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Openspeed test установить",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article",
+        "repository": "https://github.com/tronikos/home-assistant-addons"
+      },
+      {
+        "id": "ble-c600-integration",
+        "title": "BLE-C600: интеграция",
+        "description": "Интеграция C600 с исправлениями Bluetooth и сохранением последних показаний.",
+        "kind": "article",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "origin": "authored-for-site",
+        "repository": "https://github.com/OlegKocha/BLE-C600-ha-fix"
+      }
+    ],
+    "navigationIds": [
+      "hacs-install",
+      "hacs"
+    ],
+    "navigationParentId": "hacs"
+  },
+  {
+    "title": "Сеть и удалённый доступ",
+    "icon": "network",
+    "description": "KeenDNS, Keenetic, VPN и мониторинг",
+    "pages": [
+      {
+        "id": "keendns",
+        "title": "Удалённый доступ через KeenDNS",
+        "description": "Удалённый доступ через KeenDNS и подключение из мобильного приложения.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Удаленный доступ через интернет (KeenDNS)",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "ping",
+        "title": "Проверка доступности: Ping",
+        "description": "Проверка доступности интернета и устройств через ICMP.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Ping (ICMP)",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "huawei",
+        "title": "Huawei: подключение",
+        "description": "Подключение устройства Huawei по локальному адресу.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Huawei",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "wireguard",
+        "title": "Доступ через WireGuard",
+        "description": "Удалённое подключение к Home Assistant через Keenetic.",
+        "sourceName": "Подключение к HA через WG",
+        "sourceFile": "Подключение к HA через WG.md",
+        "origin": "obsidian",
+        "sha256": "1b01d2db921d1fa3ee59299a90b1d68141355dfb3d5e2cdf466251c49c895fc7",
+        "status": "needs-test",
+        "statusSource": "not-recorded",
+        "kind": "article"
+      },
+      {
+        "id": "uptime-kuma",
+        "title": "Uptime Kuma и мониторинг DDNS",
+        "description": "Мониторинг доступности и диагностика ошибок подключения.",
+        "sourceName": "Установка Uptime Kuma + Мониторинг DDNS",
+        "sourceFile": "Установка Uptime Kuma + Мониторинг DDNS.md",
+        "origin": "obsidian",
+        "sha256": "db080268810251f426a90067e3003fe35b7652b05bf102c11c278e5bcf0a6aa2",
+        "status": "needs-test",
+        "statusSource": "not-recorded",
+        "kind": "article"
+      },
+      {
+        "id": "ddns-sensor",
+        "title": "Проверка DDNS",
+        "description": "Проверка HTTP-ответа и переход к настройке Uptime Kuma.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Создание сенсора для отслеживания работы DDNS",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      }
+    ]
+  },
+  {
+    "title": "Интерфейс",
+    "icon": "layout",
+    "description": "Панели и повседневное управление",
+    "pages": [
+      {
+        "id": "sidebar",
+        "title": "Настройка боковой панели",
+        "description": "Как скрыть ненужные элементы боковой панели Home Assistant.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Изменить боковую панель",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article"
+      }
+    ]
+  },
+  {
+    "title": "Уведомления",
+    "icon": "bolt",
+    "description": "Почтовые отчёты о состоянии дома",
+    "pages": [
+      {
+        "id": "smtp",
+        "title": "Уведомления по почте",
+        "description": "SMTP, диагностика сети и HTML-отчёт о состоянии дома.",
+        "sourceName": "SMTP отправка уведомлений",
+        "sourceFile": "SMTP отправка уведомлений.md",
+        "origin": "obsidian",
+        "sha256": "ce100003d54661e3f07e32f8d12fd5a783a7c579c84ad41052aa2cfc4578fe0b",
+        "status": "verified",
+        "statusSource": "linked-checked-wiki-topic",
+        "kind": "article"
+      }
+    ]
+  },
+  {
+    "title": "Устройства и датчики",
+    "icon": "server",
+    "description": "ИБП, Zigbee, камеры и датчики",
+    "pages": [
+      {
+        "id": "nut",
+        "title": "ИБП в Home Assistant: настройка NUT",
+        "description": "Проверка совместимости, настройка сервера NUT и пример подключения ИБП по USB.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Network UPS Tools (NUT)",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "original-checkmark",
+        "kind": "article",
+        "aliases": [
+          "Подключение ИБП к HA по USB"
+        ]
+      },
+      {
+        "id": "ble-c600",
+        "title": "BLE-C600: состав воды",
+        "description": "YAML дашборда с показателями качества воды.",
+        "sourceName": "BLE-C600",
+        "sourceFile": "BLE-C600.md",
+        "origin": "obsidian",
+        "sha256": "f89310cfbae2e46ea41850572efeb345813a4bf048e6e5b22b68712032ce9308",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "kind": "article"
+      },
+      {
+        "id": "zigbee-coordinator",
+        "title": "Несколько Zigbee координаторов",
+        "description": "Отдельная конфигурация для второго экземпляра Zigbee2MQTT.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Zigbee координатор",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "roborock",
+        "title": "Roborock",
+        "description": "Заметка пока не заполнена. Здесь можно сохранить ссылку на репозиторий, настройки и результат проверки.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Roborock",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      },
+      {
+        "id": "camera-onvif",
+        "title": "Камеры TP-Link: ONVIF",
+        "description": "Подключение TP-Link через ONVIF и карточка видеопотока.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "TP-Link (onvif)",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "kind": "article"
+      },
+      {
+        "id": "camera-ezviz",
+        "title": "Камеры Ezviz",
+        "description": "Особенности интеграции Ezviz и варианты подключения видеопотока.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Ezviz",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "kind": "article"
+      }
+    ]
+  },
+  {
+    "title": "Решение проблем",
+    "icon": "shield",
+    "description": "Диагностика и восстановление доступа",
+    "pages": [
+      {
+        "id": "hibp",
+        "title": "Проверка паролей: HIBP",
+        "description": "Записанные варианты решения проблемы с проверкой паролей.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "HIPB",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "kind": "article"
+      },
+      {
+        "id": "reset-password",
+        "title": "Сброс пароля пользователя",
+        "description": "Смена пароля пользователя через локальную CLI Home Assistant.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Скинуть пароль для юзера",
+        "origin": "edited-obsidian",
+        "status": "verified",
+        "statusSource": "owner-confirmed",
+        "kind": "article"
+      },
+      {
+        "id": "mqtt-password",
+        "title": "Где найти пароль MQTT",
+        "description": "Поиск данных подключения MQTT в конфигурации Home Assistant.",
+        "sourceFile": "0 HA wiki.md",
+        "sourceSection": "Узнать пароль от MQTT",
+        "origin": "edited-obsidian",
+        "status": "needs-test",
+        "statusSource": "no-checkmark",
+        "kind": "article"
+      }
+    ]
+  }
+]

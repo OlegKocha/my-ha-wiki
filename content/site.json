@@ -1,0 +1,26 @@
+{
+  "organized": true,
+  "statusLabels": {
+    "verified": "Проверено",
+    "needs-test": "Нужно проверить"
+  },
+  "hacsTopicIds": [
+    "keenetic-repositories",
+    "gismeteo",
+    "yandex-weather",
+    "cloudflare-speedtest",
+    "rt-speedtest",
+    "yandex-speedtest",
+    "yandex-smart-home",
+    "mini-graph-card",
+    "firefox",
+    "openspeedtest",
+    "ble-c600-integration"
+  ],
+  "redirects": {
+    "email-status": "smtp",
+    "ups": "nut",
+    "ezviz-note": "camera-ezviz",
+    "keenetic": "keenetic-repositories"
+  }
+}

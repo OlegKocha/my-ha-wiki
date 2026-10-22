@@ -1,0 +1,192 @@
+{
+  "ha-wiki": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:01:41.237Z",
+    "fingerprint": "86671a4ebbf64fc750191b7c7955c6d410a1aa7d8c9495b2a3275962561e0d91"
+  },
+  "wifi": {
+    "createdAt": "2026-10-22T11:06:39.528Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "f040561bc5db42ea60f8954b5e61d1b17502f00002379cbbed50586411fa768f"
+  },
+  "file-editor": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "4c17f79cae9539cb3b05003710c5c41b2871107f914ef361070d352d7e00a81c"
+  },
+  "bookstack": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "a7c5b7c47e887a28ff4e3d765b3440daa0d7f9c60056bcf591141be04ae7b5e3"
+  },
+  "reading": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "9fa825f9446c93e783221e8eead95000bdde4bb9ba83338dd607aaff5fa328af"
+  },
+  "hacs": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T11:06:39.531Z",
+    "fingerprint": "b269724eed2b9260653bd08201383381ecfcef0a8e54672d56e7012dbeeb31f3"
+  },
+  "hacs-install": {
+    "createdAt": "2026-10-22T12:29:49.489Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "8a5dcbc99bd82a96149bc541c5e43f6fe4398a16b681c8e6cbcb5e1e0c81f278"
+  },
+  "gismeteo": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "b2dc26124738812105c675385abc61edb6893db80b92adfeb4bcf5f58cbc8d42"
+  },
+  "yandex-weather": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T14:57:05.291Z",
+    "fingerprint": "d7b0c9bb9f9e955bde6f638f7f4ec09bd72491be9e9836430293f9badd03cff4"
+  },
+  "cloudflare-speedtest": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "816c686470ef2d8ea0a42d73d148d722faad150671ef7811cc5d0e30c80c329e"
+  },
+  "rt-speedtest": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "726de8e59cbece9ccca44ee125b75d4f4e367b51be3df044691f823119ea2fa7"
+  },
+  "yandex-speedtest": {
+    "createdAt": "2026-10-22T12:29:49.489Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "b40085318bc4e8036fc3ec407a091975ef3db35905dcf228cfba8a29b27e0f22"
+  },
+  "yandex-smart-home": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "ebd7647f5ed6c6a149d58308349e7b59959984b991327538ac8d91a196f5b360"
+  },
+  "mini-graph-card": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "3c77ef385ebebbaa6b9f124a7217cc2bddc09e3c9f80cc13293563de237dac21"
+  },
+  "keenetic-repositories": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T15:00:43.584Z",
+    "fingerprint": "67d596e0f043657c5277bf91878f73b59fda32df524208b53a1ce40121344b05"
+  },
+  "firefox": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:39:26.199Z",
+    "fingerprint": "d539419bb0b050f36eb0244e08e10e6f0eaf377d7b22bdd50d28f8622b333fdb"
+  },
+  "openspeedtest": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T14:35:21.666Z",
+    "fingerprint": "3be1edab29263a142e2c39238a201de8148e447fd9c7398d5781160bcd34a9a2"
+  },
+  "keendns": {
+    "createdAt": "2026-10-22T11:06:39.528Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "4f792edaa41876d97593900900449ddfe8aef0b7ad8e1810c6bc14506a5d2f0a"
+  },
+  "ping": {
+    "createdAt": "2026-10-22T11:06:39.528Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "f710e4f366b577b353c5e207ac04ecd6048da3b2feec93ee80e506383cbb4b93"
+  },
+  "huawei": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "7f91db61584d22dca11f827c8a0cdfd7b6f509385d3fa82241de3a7f1fb6dda6"
+  },
+  "wireguard": {
+    "createdAt": "2026-10-22T09:20:40.885Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "ba8811bec07401f4fae4913c9ce214a2975861637a6b3e7a8e0c1a7ce81fe440"
+  },
+  "uptime-kuma": {
+    "createdAt": "2026-10-22T09:20:40.885Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "53e4ca8c52b53d19e441ce58485444c346b9628477edc43e01352398e3e17c65"
+  },
+  "ddns-sensor": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "784211820f1dad4990f949a7ef5df1d8a835ac40b42c1d65e309a92c37274e18"
+  },
+  "sidebar": {
+    "createdAt": "2026-10-22T11:06:39.528Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "a4f51ce53fb504c2bcae3286c92718daeb0f1079d42656216b32c9c063190dce"
+  },
+  "smtp": {
+    "createdAt": "2026-10-22T12:29:49.489Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "36bc4e3d1f3ddbc35e7f96fa8e49ae4725474bb4caa6c08d85874947086f2c66"
+  },
+  "nut": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T13:01:41.237Z",
+    "fingerprint": "8bf22c7a0b7a291f9bf34e95ab4284a7861e60edb092b073d21274286f38ef36"
+  },
+  "ble-c600": {
+    "createdAt": "2026-10-22T09:20:40.886Z",
+    "updatedAt": "2026-10-22T14:47:06.525Z",
+    "fingerprint": "589dbbbb3cdf440c6feb90811855ce528cf8142098af3be5951ff6ada869acad"
+  },
+  "zigbee-coordinator": {
+    "createdAt": "2026-10-22T11:06:39.530Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "7d6d539fcde78d4e874f5953d79a59130c167194647c8ebb6ab15eabc1bb092f"
+  },
+  "roborock": {
+    "createdAt": "2026-10-22T11:06:39.529Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "0302e1dfedc57187d108c16624fec943d802093bc3e7042653c14eecd2961bb5"
+  },
+  "camera-onvif": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "5973876133cd681d25cd25ab81c5b68cba80d5b252bd318365d5fab32f60cf84"
+  },
+  "camera-ezviz": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "aa5635e1484bb8541cca34c2b8b6da228c1c8eeb5ada10e84cb461b7b27b7dd4"
+  },
+  "rinnai-overview": {
+    "createdAt": "2026-10-22T12:38:50.116Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "610c274ac330bb8ef93799a84831aaca48515badd76873c3ec5a5d6ba39df64f"
+  },
+  "rinnai-modbus": {
+    "createdAt": "2026-10-22T09:20:40.886Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "b17dd84dfedcd0486f8afa2f5516a97c3af608eed7641c13f67c58a7c0d0f506"
+  },
+  "rinnai-field": {
+    "createdAt": "2026-10-22T09:20:40.886Z",
+    "updatedAt": "2026-10-22T13:04:25.602Z",
+    "fingerprint": "729d49a046c46bca7d18a66842fee4c45bdeed791a7d475a75b359c12a1187df"
+  },
+  "hibp": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:30:56.058Z",
+    "fingerprint": "8714da98cd60ac252a74286a4e2a0959e33cd2202dae60136586ee217c85b4a8"
+  },
+  "reset-password": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "c10862b872b3be473fdc152ba8cf9bfe3a3144a2705ac957eaffcd429b6efc48"
+  },
+  "mqtt-password": {
+    "createdAt": "2026-10-22T11:06:39.531Z",
+    "updatedAt": "2026-10-22T13:27:27.699Z",
+    "fingerprint": "ab4febe807c8ed730f7ab3536396ed9ddd7326c6c9cedd0d6e1034d8662ce56f"
+  },
+  "ble-c600-integration": {
+    "createdAt": "2026-10-22T13:01:41.237Z",
+    "updatedAt": "2026-10-22T14:47:06.525Z",
+    "fingerprint": "990af7af863d13d03c3a18796ec309c8d8d01ccf912aa0459c3234db4abeef19"
+  }
+}
