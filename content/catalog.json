@@ -428,6 +428,13 @@
         "kind": "article"
       },
       {
+        "id": "sonoff-snzb-02dr2",
+        "title": "Внешний датчик на экране SONOFF SNZB-02DR2",
+        "description": "Как вывести температуру и влажность другого датчика в строки EXT1 через Zigbee2MQTT и Home Assistant.",
+        "status": "needs-test",
+        "kind": "article"
+      },
+      {
         "id": "roborock",
         "title": "Roborock",
         "description": "Заметка пока не заполнена. Здесь можно сохранить ссылку на репозиторий, настройки и результат проверки.",
