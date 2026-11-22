@@ -435,6 +435,20 @@
         "kind": "article"
       },
       {
+        "id": "z2m-temperature-reporting",
+        "title": "Как чаще получать температуру в Zigbee2MQTT",
+        "description": "Интервалы отчётности для SONOFF SNZB-02DR2 и внешнего датчика с пустой вкладкой «Отчётность».",
+        "status": "needs-test",
+        "kind": "article"
+      },
+      {
+        "id": "z2m-last-seen",
+        "title": "Последнее появление и красная рамка через 24 часа в Z2M",
+        "description": "Как показать время связи и настроить доступность батарейных датчиков в WindFront.",
+        "status": "needs-test",
+        "kind": "article"
+      },
+      {
         "id": "roborock",
         "title": "Roborock",
         "description": "Заметка пока не заполнена. Здесь можно сохранить ссылку на репозиторий, настройки и результат проверки.",
