@@ -1,0 +1,30 @@
+# Только для первого запуска НОВОЙ сети без привязанных устройств.
+# Замените условный IP-адрес и учётные данные MQTT своими значениями.
+# Для существующей сети сохраните её pan_id, ext_pan_id и network_key.
+version: 5
+
+mqtt:
+  base_topic: zigbee2mqtt_3
+  server: mqtt://core-mosquitto:1883
+  user: mqtt_user
+  password: REPLACE_WITH_YOUR_MQTT_PASSWORD
+
+serial:
+  port: tcp://192.0.2.68:6638
+  adapter: zstack
+
+advanced:
+  log_level: info
+  transmit_power: 20
+  pan_id: GENERATE
+  ext_pan_id: GENERATE
+  channel: 11
+  network_key: GENERATE
+  last_seen: ISO_8601
+
+homeassistant:
+  enabled: true
+
+frontend:
+  enabled: true
+  port: 8099

@@ -418,13 +418,13 @@
       },
       {
         "id": "zigbee-coordinator",
-        "title": "Несколько Zigbee координаторов",
-        "description": "Отдельная конфигурация для второго экземпляра Zigbee2MQTT.",
+        "title": "Сетевой Zigbee-координатор: YAML и ошибки запуска",
+        "description": "Второй или третий Zigbee2MQTT: полный YAML, исправление ошибок и сохранение параметров сети.",
         "sourceFile": "0 HA wiki.md",
         "sourceSection": "Zigbee координатор",
         "origin": "edited-obsidian",
-        "status": "needs-test",
-        "statusSource": "no-checkmark",
+        "status": "verified",
+        "statusSource": "user-startup-log",
         "kind": "article"
       },
       {
