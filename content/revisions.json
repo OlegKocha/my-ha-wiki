@@ -193,5 +193,15 @@
     "createdAt": "2026-11-22T08:35:42.473Z",
     "updatedAt": "2026-11-22T08:35:50.506Z",
     "fingerprint": "7aaaf2dfa909391a40a0f98c26d6a9a34dc39f4ca794c1c1f1a3358237e8ee11"
+  },
+  "z2m-temperature-reporting": {
+    "createdAt": "2026-11-22T08:51:46.803Z",
+    "updatedAt": "2026-11-22T08:51:46.803Z",
+    "fingerprint": "5f7c13192a36d109f7d5c5d24c2ace072ffff1cc5fdc9d51dba0a9683eae6426"
+  },
+  "z2m-last-seen": {
+    "createdAt": "2026-11-22T08:51:46.803Z",
+    "updatedAt": "2026-11-22T08:51:46.803Z",
+    "fingerprint": "38ebe62c1783f7dc52682f421e3dbe57a84ea65cf5677e6fc669dc9591d0d291"
   }
 }
